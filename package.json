@@ -2,8 +2,9 @@
     "name": "infokey",
     "displayName": "Infokey",
     "description": "Extension to add syntax highlighting and snippets for ~/.infokey config.",
-    "icon": "./images/logo.png",
+    "icon": "logo.png",
     "version": "1.0.0",
+    "publisher": "EmilySeville7cfg",
     "repository": "https://github.com/UI-Apps/vscode-infokey-plugin",
     "engines": {
         "vscode": "^1.63.0"
